@@ -1,4 +1,4 @@
-# xr-cli
+# xr-cli // 自定义脚手架
 A simple CLI for creating your project.
 
 # Installation
